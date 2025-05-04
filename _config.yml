@@ -3,4 +3,4 @@ title: files for itms-service
 description: A Site to hoste files
 theme: minima  
 include:
-  - myfile.html
+  - index.html
